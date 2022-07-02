@@ -1,2 +1,2 @@
-# com709-2nd-assessment-
+# com709-2nd-assessment
 computer fundamentals assessment project
